@@ -1,3 +1,4 @@
+LDFLAGS=
 KMOD=explosion
 SRCS=main.c
 
